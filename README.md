@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-![](https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-0/p526x296/90628720_2987404894645274_4139792936504131584_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=4JN3jgSdK9cAX9aH_oa&_nc_ht=scontent-waw1-1.xx&tp=6&oh=36e528713f17351bdfde18b4ef798c44&oe=5F6BD540)
+![](https://pbs.twimg.com/media/Ee5FJZ-XYAEVEvS?format=jpg&name=small)
 
 #### About me
 I' m Daria from Poland. I would like to be a frontend developer, who lift heavy weights! 
