@@ -1,6 +1,8 @@
 ### Hello World! 👋
 
-![](https://pbs.twimg.com/media/Ee5FJZ-XYAEVEvS?format=jpg&name=small)
+<p align="center">
+  <img width="624" height="352" src="https://pbs.twimg.com/media/Ee5FJZ-XYAEVEvS?format=jpg&name=small">
+</p>
 
 #### About me
 I' m Daria from Poland. I would like to be a frontend developer, who lift heavy weights! 
