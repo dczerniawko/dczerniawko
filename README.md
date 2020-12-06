@@ -5,7 +5,7 @@
 </p>
 
 ### About me
-I'm Daria from Poland. I would like to be a frontend developer, who lift heavy weights! 
+I'm Daria from Poland. I would like to be a developer, who lift heavy weights! 
 Currently, I enjoy learning HTML, CSS and JS.
 
 ### Technologies
